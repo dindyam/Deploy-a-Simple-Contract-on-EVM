@@ -1,5 +1,5 @@
 # Deploy-a-Simple-Contract-on-EVM
-Deploy a simple contract on EVM's L1 &amp; L2 using Remix  
+Deploy a simple contract on EVM's L1 &amp; L2 using Remix.  
 
 
 
